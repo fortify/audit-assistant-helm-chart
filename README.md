@@ -25,4 +25,4 @@ helm search repo fortify/
 helm install <NAME> fortify/audit-assistant --version <CHART_VERSION> ...
 ```
 
-Please refer to [Audit Assistant documentation](https://www.microfocus.com/documentation/fortify-audit-assistant/) for full instructions.  
+Please refer to [Audit Assistant documentation](https://www.microfocus.com/documentation/fortify-audit-assistant/) for full instructions.
