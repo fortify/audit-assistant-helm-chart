@@ -2,7 +2,7 @@ Audit Assistant Helm charts repository
 ======================================
 
 This repository contains the Fortify Audit Assistant Helm charts. It features a directory for each
-Audit Assistant release (for example `24.2.0`). The release directory contains Helm chart packages
+Audit Assistant release (for example `24.4.0`). The release directory contains Helm chart packages
 for the release and an example of chart configuration file named `custom-values-example.yaml`.
 
 A Helm chart package (`audit-assistant-<CHART_VERSION>.tgz`) can be downloaded and used locally as follows:
